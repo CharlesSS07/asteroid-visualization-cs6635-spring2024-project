@@ -4,6 +4,12 @@ Blender3D is a CGI tool. Here, we use it for data visualization.
 
 ![still image demo 1](blender/output/still.001.png)
 
+*How to interpet asteroid data:* each asteroid is placed according to where it was detected. The radiated energy (energy released before impace) of the impact is encoded by the color (upper color spectrum), as well as tail length. Meanwhile, the energy released by the impact is encoded by the radius of the circle below the asteroid, as well as the lower color specturm. Notice that both specturms are on log scales.
+
+*How to interpret topography:* topography is emphasized for artistic purposes, and so the viewer can understand which part of the world they are looking at (aligned with asteroid gps coordinates).
+
+*How to interpret light pollution:* light pollution is encoded on top of the topography, using an arbitrary color spectrum where blue is lower light pollution, and red is max light pollution. This gives the viewer references for where the largest cities are, and where to find the best asteroid viewing spots.
+
 ![still image demo 2](blender/output/still.002.png)
 
 ## Full Animation:
