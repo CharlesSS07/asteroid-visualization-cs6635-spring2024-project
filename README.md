@@ -1,10 +1,10 @@
 # cs6635-spring2024-project
 
-[still image demo 1](assets/still.001.png)
+![still image demo 1](assets/still.001.png)
 
-[still image demo 2](assets/still.002.png)
+![still image demo 2](assets/still.002.png)
 
-[blender animation](animated.000.mp4)
+![blender animation](animated.000.mp4)
 
 Using this blender addon:
 
