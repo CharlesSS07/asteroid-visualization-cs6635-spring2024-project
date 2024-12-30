@@ -1,8 +1,8 @@
 # Blender-based Visualization of NASA JPL CNEOS Fireball Dataset
 
-![still image demo 1](assets/still.001.png)
+![still image demo 1](blender/outputs/still.001.png)
 
-![still image demo 2](assets/still.002.png)
+![still image demo 2](blender/outputs/still.002.png)
 
 ## Full Animation:
 ![blender animation](animated.000.mp4)
